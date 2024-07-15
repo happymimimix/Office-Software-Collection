@@ -26,4 +26,12 @@
       - Info Path
   - WPS 2019 Pro Plus - Build 11.8.2.12265  (Source: https://www.fenxm.com/116.html)
     - Characteristics: Has some special functionality that MS Office don't, but also lacking some functionality that MS Office has. Might be useful sometimes.
-  
+- Addons:
+  - 小恐龙排版助手  (Source: https://gw.xkonglong.com/#/#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80)
+  - Eastar  (Source: https://eastar.qij.cn/index.html)
+  - Excel Artist  (Source: I forgot)
+  - 方方格子  (Source: https://www.3h3.com/soft/244487.html)
+  - 惠办公  (Source: https://www.xxrjm.com/9942.html)
+  - ispring suite  (Source: https://drive.google.com/file/d/1gGd3ujglSvGWIYvS_tjkBhS6TcYBEib0/view)
+  - Motion Go  （Source: https://motion.yoo-ai.com/)
+  - One Key Tools  (http://oktools.xyz/)
